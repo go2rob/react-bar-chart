@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+input {
+  width: 150px;
+  height: 22px;
+
+  /* background: #fcfcfc; */
+  border: 1px solid #aaa;
+  /* border-radius: 5px; */
+  /* box-shadow: 0 0 3px #ccc, 0 10px 15px #ebebeb inset; */
+  text-indent: 10px;
+}
